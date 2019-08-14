@@ -11,4 +11,3 @@ import { HelloComponent } from './hello.component';
   bootstrap:    [ AppComponent ]
 })
 export class AppModule { }
-asdasd
